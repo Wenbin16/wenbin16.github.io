@@ -1,1 +1,1 @@
-# This is the VEG website!
+# This is our group website!
