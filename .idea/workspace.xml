@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef3f526a-788a-48e5-8b31-5f4c9cc83bcd" name="Changes" comment="Merge branch 'master' of https://github.com/Wenbin16/wenbin16.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change beforePath="$PROJECT_DIR$/publication.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication.html" afterDir="false" />
-    </list>
+    <list default="true" id="ef3f526a-788a-48e5-8b31-5f4c9cc83bcd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +44,7 @@
       <workItem from="1632974955126" duration="1264000" />
       <workItem from="1632988702318" duration="936000" />
       <workItem from="1633767238105" duration="1304000" />
-      <workItem from="1634022976182" duration="32000" />
+      <workItem from="1634022976182" duration="49000" />
     </task>
     <task id="LOCAL-00001" summary="Net">
       <created>1632975418030</created>
@@ -62,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632976369012</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge branch 'master' of https://github.com/Wenbin16/wenbin16.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1634023020121</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1634023020121</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
