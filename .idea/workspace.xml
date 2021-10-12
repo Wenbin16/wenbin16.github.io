@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef3f526a-788a-48e5-8b31-5f4c9cc83bcd" name="Changes" comment="">
+    <list default="true" id="ef3f526a-788a-48e5-8b31-5f4c9cc83bcd" name="Changes" comment="Merge branch 'master' of https://github.com/Wenbin16/wenbin16.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change afterPath="$PROJECT_DIR$/img/20210930.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/peoples/sunkai.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/peoples/xingjun.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/peoples/xingjun.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new.html" beforeDir="false" afterPath="$PROJECT_DIR$/new.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/people.html" beforeDir="false" afterPath="$PROJECT_DIR$/people.html" afterDir="false" />
@@ -78,6 +81,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Net" />
-    <option name="LAST_COMMIT_MESSAGE" value="Net" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/Wenbin16/wenbin16.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/Wenbin16/wenbin16.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
 </project>
