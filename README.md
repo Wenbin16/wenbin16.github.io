@@ -1,1 +1,1 @@
-# This is our group website!
+# Welcome! This is our group website!
