@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="ef3f526a-788a-48e5-8b31-5f4c9cc83bcd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="ef3f526a-788a-48e5-8b31-5f4c9cc83bcd" name="Changes" comment="" />
+>>>>>>> parent of 25fa125 (updated data)
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,16 +35,23 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+<<<<<<< HEAD
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+=======
+>>>>>>> parent of 25fa125 (updated data)
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+<<<<<<< HEAD
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+=======
+>>>>>>> parent of 25fa125 (updated data)
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+<<<<<<< HEAD
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -48,6 +59,8 @@
       </set>
     </attachedChunks>
   </component>
+=======
+>>>>>>> parent of 25fa125 (updated data)
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,8 +81,11 @@
       <workItem from="1706511568256" duration="3244000" />
       <workItem from="1709708189803" duration="43000" />
       <workItem from="1709708287453" duration="446000" />
+<<<<<<< HEAD
       <workItem from="1713796270192" duration="1253000" />
       <workItem from="1713874686999" duration="7000" />
+=======
+>>>>>>> parent of 25fa125 (updated data)
     </task>
     <task id="LOCAL-00001" summary="Net">
       <created>1632975418030</created>
